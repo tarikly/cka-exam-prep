@@ -67,3 +67,6 @@ to indent, add/remove spaces(2) use:
 
 Source: 
 [Video - kube academy - editing yaml](https://kube.academy/courses/how-to-prepare-for-the-cka-exam/lessons/editing-yaml-with-vim)
+
+
+[Kubernetes Tutorial - How to Crack 🔥CKA Exam🔥 in 21 Hours?](https://www.youtube.com/watch?v=pHmTDB_qI6k)
