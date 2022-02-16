@@ -65,6 +65,21 @@ to indent, add/remove spaces(2) use:
 
 '>' greater than
 
+https://kubernetes.io/docs/reference/kubectl/cheatsheet/#bash
+
+Fast dry-run output
+```
+export do="--dry-run=client -o yaml"
+```
+Fast pod delete
+```
+export now="--force --grace-period 0"
+k delete pod1 $now
+```
+or
+```
+k delete pod x --grace-period 0 --force
+```
 Source: 
 [Video - kube academy - editing yaml](https://kube.academy/courses/how-to-prepare-for-the-cka-exam/lessons/editing-yaml-with-vim)
 
